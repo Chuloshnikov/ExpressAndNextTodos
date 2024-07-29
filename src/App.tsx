@@ -1,7 +1,6 @@
 import { dummyData } from "./data/todos"
 
 function App() {
-
   return (
    <main className="py-10 h-screen">
     <h1 className="font-bold text-3xl text-center">Your Todos</h1>
@@ -18,4 +17,4 @@ function App() {
   )
 }
 
-export default App;
+export default App
