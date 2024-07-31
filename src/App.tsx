@@ -1,4 +1,4 @@
-import { dummyData } from "./data/todos"
+import { dummyData } from "./data/todos";
 
 function App() {
 
